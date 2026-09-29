@@ -1,0 +1,9 @@
+data/*
+!data/.gitkeep
+__pycache__/
+*.pyc
+.venv/
+.env
+*.key
+secrets/
+user_data/

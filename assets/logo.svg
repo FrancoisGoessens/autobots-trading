@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-label="Autobots Trading, logo provisoire">
+  <rect width="120" height="120" rx="18" fill="#12203a"/>
+  <path d="M60 14 L94 32 L94 70 L60 106 L26 70 L26 32 Z" fill="#1f3a6b" stroke="#c8d3e6" stroke-width="3" stroke-linejoin="round"/>
+  <rect x="38" y="42" width="44" height="14" rx="3" fill="#0b1426"/>
+  <rect x="42" y="46" width="14" height="6" fill="#e5484d"/>
+  <rect x="64" y="46" width="14" height="6" fill="#e5484d"/>
+  <polyline points="36,88 50,76 60,82 72,66 84,72" fill="none" stroke="#4cc38a" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
